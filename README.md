@@ -1,3 +1,3 @@
 # namancoder.github.io
 Hi my name is Naman
-namancoder.me
+[Lets go to my Portfolio](https://namancoder.me)
