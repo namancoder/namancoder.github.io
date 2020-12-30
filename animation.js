@@ -395,7 +395,7 @@ thing("Yo.");
        ctx.clearRect(0, 0, canvas.width, canvas.height);
        
        //This sets the color to draw with.
-       ctx.strokeStyle = "#00FFFF";
+       ctx.strokeStyle = "#fff";
 
        //This calls the function to update the particle positions.
        update_particle();

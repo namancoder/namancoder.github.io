@@ -2,11 +2,21 @@
 
 body {
   margin: 0;
-  background: #000;
+  background: #fff;
+  background-image: linear-gradient(
+    to right,
+    red,
+    orange,
+    yellow,
+    green,
+    blue,
+    indigo,
+    violet
+  );
   font-family: "Open Sans";
 }
 h1 {
-  color: #ffffff;
+  color: white;
   text-align: center;
   font-size: 20px;
 }
@@ -17,5 +27,5 @@ canvas {
   bottom: 0;
   left: 0;
   margin: auto;
-  border: 2px solid white;
+  border: 4px dashed BLACK;
 }
